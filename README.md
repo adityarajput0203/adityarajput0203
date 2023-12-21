@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Rajput</h1>
-<h3 align="center">A FullStack developer from India</h3>
+<h1 align="center">Hi 🙏, I'm Aditya Rajput</h1>
+<h3 align="center">A FullStack developer</h3>
 
 - 🔭 I’m currently working on **improving my DataStructures and Algorithms skills.**
 
